@@ -1,0 +1,248 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90ee2fc48d6eba1273d03f1c8430741b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.5.1] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.5.1.aar\ded66e68b300b2f9725cfab4ed2c5a1f\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f0f760f421b6c1cb38f794467b2d7dcc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3664741921b8434bc3394dc863189be5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\0c9f606a2012ed64154ace9585c723af\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b45a2d05798b423b03bffb730ccd77f7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\223cbea1966f3a3de5d4032f776b226e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f8c0221c33c9bec6ef457ed836778ea9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\90f4c8fe0fa427e2ac4f6fc9f4dbce98\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2cb47d9f90c651e85a2bf158c0a6ce6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d3143b57a8f025d5a81ae1dac7d7057\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d7f349782d44d60374cd58bb87dac4f9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8453c8d937f0d2724bebeece0cf8a8c0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\94aa179c58a291b7ef296aab4ababd69\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e372e6ecde33dd9bbaeace85e1f764d3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\ef49235cbc14839d6faea2dc299d3e5e\AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0aab120d5cffd7cf6ed9d841ded7916d\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:4:5-48
+		INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+	xmlns:app
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:3:5-56
+	android:versionName
+		INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:6:5-8:35
+	android:required
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:7:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:12:22-72
+application
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:14:5-52:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90ee2fc48d6eba1273d03f1c8430741b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90ee2fc48d6eba1273d03f1c8430741b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f0f760f421b6c1cb38f794467b2d7dcc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f0f760f421b6c1cb38f794467b2d7dcc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3664741921b8434bc3394dc863189be5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3664741921b8434bc3394dc863189be5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\0c9f606a2012ed64154ace9585c723af\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\0c9f606a2012ed64154ace9585c723af\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b45a2d05798b423b03bffb730ccd77f7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b45a2d05798b423b03bffb730ccd77f7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\223cbea1966f3a3de5d4032f776b226e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\223cbea1966f3a3de5d4032f776b226e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f8c0221c33c9bec6ef457ed836778ea9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f8c0221c33c9bec6ef457ed836778ea9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\90f4c8fe0fa427e2ac4f6fc9f4dbce98\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\90f4c8fe0fa427e2ac4f6fc9f4dbce98\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2cb47d9f90c651e85a2bf158c0a6ce6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2cb47d9f90c651e85a2bf158c0a6ce6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d3143b57a8f025d5a81ae1dac7d7057\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d3143b57a8f025d5a81ae1dac7d7057\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d7f349782d44d60374cd58bb87dac4f9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d7f349782d44d60374cd58bb87dac4f9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8453c8d937f0d2724bebeece0cf8a8c0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8453c8d937f0d2724bebeece0cf8a8c0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\94aa179c58a291b7ef296aab4ababd69\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\94aa179c58a291b7ef296aab4ababd69\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e372e6ecde33dd9bbaeace85e1f764d3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e372e6ecde33dd9bbaeace85e1f764d3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\ef49235cbc14839d6faea2dc299d3e5e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\ef49235cbc14839d6faea2dc299d3e5e\AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0aab120d5cffd7cf6ed9d841ded7916d\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0aab120d5cffd7cf6ed9d841ded7916d\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.example.nicoladalmaso.gruppo1.MainActivity
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:28:9-30:59
+	android:theme
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:29:13-76
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:grantUriPermissions
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:36:13-47
+	android:authorities
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:34:13-67
+	android:exported
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:33:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:37:13-39:54
+	android:resource
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:39:17-51
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:38:17-67
+activity#com.example.nicoladalmaso.gruppo1.BillViewer
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:42:9-45:69
+	android:parentActivityName
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:44:13-55
+	android:theme
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:45:13-66
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:43:13-39
+activity#com.example.nicoladalmaso.gruppo1.BillActivity
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:46:9-48:58
+	android:parentActivityName
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:48:13-55
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:47:13-41
+activity#com.example.nicoladalmaso.gruppo1.AddNewMission
+ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:49:9-51:57
+	android:parentActivityName
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:51:13-55
+	android:name
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml:50:13-42
+uses-sdk
+INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90ee2fc48d6eba1273d03f1c8430741b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90ee2fc48d6eba1273d03f1c8430741b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.5.1] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.5.1.aar\ded66e68b300b2f9725cfab4ed2c5a1f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.5.1] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.5.1.aar\ded66e68b300b2f9725cfab4ed2c5a1f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f0f760f421b6c1cb38f794467b2d7dcc\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f0f760f421b6c1cb38f794467b2d7dcc\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3664741921b8434bc3394dc863189be5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3664741921b8434bc3394dc863189be5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\0c9f606a2012ed64154ace9585c723af\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\0c9f606a2012ed64154ace9585c723af\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b45a2d05798b423b03bffb730ccd77f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b45a2d05798b423b03bffb730ccd77f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\223cbea1966f3a3de5d4032f776b226e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\223cbea1966f3a3de5d4032f776b226e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f8c0221c33c9bec6ef457ed836778ea9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f8c0221c33c9bec6ef457ed836778ea9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\90f4c8fe0fa427e2ac4f6fc9f4dbce98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\90f4c8fe0fa427e2ac4f6fc9f4dbce98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2cb47d9f90c651e85a2bf158c0a6ce6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2cb47d9f90c651e85a2bf158c0a6ce6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d3143b57a8f025d5a81ae1dac7d7057\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d3143b57a8f025d5a81ae1dac7d7057\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d7f349782d44d60374cd58bb87dac4f9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d7f349782d44d60374cd58bb87dac4f9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8453c8d937f0d2724bebeece0cf8a8c0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8453c8d937f0d2724bebeece0cf8a8c0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\94aa179c58a291b7ef296aab4ababd69\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\94aa179c58a291b7ef296aab4ababd69\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e372e6ecde33dd9bbaeace85e1f764d3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e372e6ecde33dd9bbaeace85e1f764d3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\ef49235cbc14839d6faea2dc299d3e5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\ef49235cbc14839d6faea2dc299d3e5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0aab120d5cffd7cf6ed9d841ded7916d\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0aab120d5cffd7cf6ed9d841ded7916d\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90ee2fc48d6eba1273d03f1c8430741b\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\feder\Desktop\ProgettoApp\AppScontrini-gruppo1-port\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90ee2fc48d6eba1273d03f1c8430741b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f0f760f421b6c1cb38f794467b2d7dcc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f0f760f421b6c1cb38f794467b2d7dcc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b45a2d05798b423b03bffb730ccd77f7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b45a2d05798b423b03bffb730ccd77f7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\223cbea1966f3a3de5d4032f776b226e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\223cbea1966f3a3de5d4032f776b226e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f8c0221c33c9bec6ef457ed836778ea9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f8c0221c33c9bec6ef457ed836778ea9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\90f4c8fe0fa427e2ac4f6fc9f4dbce98\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\90f4c8fe0fa427e2ac4f6fc9f4dbce98\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2cb47d9f90c651e85a2bf158c0a6ce6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a2cb47d9f90c651e85a2bf158c0a6ce6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d3143b57a8f025d5a81ae1dac7d7057\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6d3143b57a8f025d5a81ae1dac7d7057\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d7f349782d44d60374cd58bb87dac4f9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d7f349782d44d60374cd58bb87dac4f9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8453c8d937f0d2724bebeece0cf8a8c0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8453c8d937f0d2724bebeece0cf8a8c0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\94aa179c58a291b7ef296aab4ababd69\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\94aa179c58a291b7ef296aab4ababd69\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e372e6ecde33dd9bbaeace85e1f764d3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e372e6ecde33dd9bbaeace85e1f764d3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\ef49235cbc14839d6faea2dc299d3e5e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\ef49235cbc14839d6faea2dc299d3e5e\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90ee2fc48d6eba1273d03f1c8430741b\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\90ee2fc48d6eba1273d03f1c8430741b\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0aab120d5cffd7cf6ed9d841ded7916d\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0aab120d5cffd7cf6ed9d841ded7916d\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\feder\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0aab120d5cffd7cf6ed9d841ded7916d\AndroidManifest.xml:26:13-58
